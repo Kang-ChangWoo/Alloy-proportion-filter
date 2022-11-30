@@ -3,7 +3,8 @@ This repository aims to filter formatted CSV file(.csv) which contain patent inf
 
 
 ### Requirements
-- [Microosft VBA](https://learn.microsoft.com/en-us/office/vba/api/overview/)
+- [Microsoft Office](https://www.microsoft.com/en-us/microsoft-365)
+- [Microsoft VBA](https://learn.microsoft.com/en-us/office/vba/api/overview/)
 
 
 ### Instruction 
