@@ -8,9 +8,7 @@ This repository aims to filter formatted CSV file(.csv) which contain patent inf
 
 ### Instruction 
 1. If the Microsoft office is installed, no separate installation process is required.
-   ```
-   pip install -r requirements.txt
-   ```
+
 2. Open with Excel file `Alloy-proportion-visualizer.xlsm`.
 
 3. Run according to instructions in `Alloy-proportion-visualizer.pdf`.
