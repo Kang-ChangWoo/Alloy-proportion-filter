@@ -23,7 +23,7 @@ You should needed some CSV files that store alloy-proportion informations for ea
 date | details 
 ---- | ---- 
 Nov. 30, 2022. | initially released
-
+Dec. 6, 2022. | visualizer updated 
 
 
 ### Contact
